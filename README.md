@@ -2,7 +2,7 @@
 
 Programa que crea un histograma de los enteros dentro de un array dado.
 
-El código está contenido en el método principal, donde se lleva a cabo la creación del array, la creación del histograma y su rellenado.
+En la versión 1, el código está contenido en el método principal, donde se lleva a cabo la creación del array, la creación del histograma y su rellenado. Esto irá cambiando conforme se avance en las versiones.
 
 ### Versión 1
 El rellenado del array se realiza con un for común que recorre la longitud del array de enteros.
